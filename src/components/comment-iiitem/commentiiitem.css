@@ -1,0 +1,26 @@
+li{
+    transition: .5s;
+    overflow: hidden;
+}
+
+.handle{
+    width: 60px;
+    border: 1px solid #ccc;
+    background: #fff;
+    position: absolute;
+    right: 10px;
+    top: 1px;
+    text-align:center;
+}
+
+.handle a {
+    display: block;
+    text-display: none;
+}
+.list-group-item .centence{
+    padding: 0px 50px;
+}
+
+.user{
+    front-size: 22px;
+}
